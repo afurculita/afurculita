@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cake and Math](./CAKE_1500.jpg)
 
 <!--
 **afurculita/afurculita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
